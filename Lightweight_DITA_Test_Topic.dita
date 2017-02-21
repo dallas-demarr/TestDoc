@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="topic_sbb_psz_zy">
-  <title>Initial Commit</title>
+  <title>Initial
+    <?oxy_comment_start author="dallas-demarr" timestamp="20170221T083220-0500" comment="Chris, can you see this?"?>Commit<?oxy_comment_end?></title>
+  <shortdesc>This should probably be fleshed out in a
+    <?oxy_comment_start author="dallas-demarr" timestamp="20170221T083319-0500" comment="Vague phrase- deadline?"?>future<?oxy_comment_end?>
+    commit.</shortdesc>
   <body>
     <p></p>
   </body>
