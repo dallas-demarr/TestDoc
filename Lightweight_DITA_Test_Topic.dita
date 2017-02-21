@@ -6,7 +6,33 @@
   <shortdesc>This should probably be fleshed out in a
     <?oxy_comment_start author="dallas-demarr" timestamp="20170221T083319-0500" comment="Vague phrase- deadline?"?>future<?oxy_comment_end?>
     commit.</shortdesc>
+  <prolog>
+    <data/>
+  </prolog>
   <body>
     <p></p>
+    <simpletable id="simpletable_krq_btz_zy">
+      <sthead>
+        <stentry>
+          <p>Test1</p>
+        </stentry>
+        <stentry>
+          <p>Test2</p>
+        </stentry>
+        <stentry>
+          <p>Test3</p>
+        </stentry>
+      </sthead>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+    </simpletable>
   </body>
 </topic>
